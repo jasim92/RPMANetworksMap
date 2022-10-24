@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">RPMANetwork</string>
     <string name="title_activity_maps">RPMANetwork</string>
+    <string name="map_key">AIzaSyAoX8mWAyZ0HmBz5JmqRuUsjdFKVPg8cv4</string>
 </resources>

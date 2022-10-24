@@ -156,7 +156,7 @@ public class MapsActivity extends FragmentActivity implements TaskLoadedCallback
         // Mode
         String mode = "mode=" + directionMode;
 
-        String key = "key="+"AIzaSyAoX8mWAyZ0HmBz5JmqRuUsjdFKVPg8cv4";
+        String key = "key="+getString(R.string.map_key);
         // Building the parameters to the web service
         String parameters = str_origin + "&" + str_dest + "&" + mode;
         // Output format
